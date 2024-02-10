@@ -1,8 +1,4 @@
 <script setup lang='ts'>
-
-}
-
-// coucous
 </script>
 
 <template>
